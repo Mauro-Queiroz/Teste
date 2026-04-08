@@ -42,7 +42,7 @@
 [Padroes Spring Boot - Spring Boot ](https://github.com/Mauro-Queiroz/padroes-projeto-spring-boot)<br>
 [Spring Security - Spring Boot ](https://github.com/Mauro-Queiroz/dio-spring-boot-security)<br>
 [Jogo Sudoku - Java](https://github.com/Mauro-Queiroz/br.com.dio.sudoku)<br>
-[Java - Java](https://github.com/Mauro-Queiroz/dio-lab-open-source)<br>
+[Open Source - HTML-CSS-JavaScript](https://github.com/Mauro-Queiroz/dio-lab-open-source)<br>
 [Desafio - Java ](https://github.com/Mauro-Queiroz/desafio_dio_banco)<br>
 [Stream API - Java ](https://github.com/Mauro-Queiroz/stream_api_java)<br>
 [Collections - Java ](https://github.com/Mauro-Queiroz/collections_java_api_2023)<br>
